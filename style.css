@@ -1,0 +1,22 @@
+
+@import url(https://fonts.googleapis.com/css?family=Homenaje);
+
+body {
+  background-color: #FFD;
+}
+
+h1{
+	color: #222;
+	font-size: 60px;
+	font-family: 'Homenaje', sans-serif;
+	text-align: center;
+	margin-top: 80px;
+	padding-bottom: 15px;
+	border-bottom: solid 2px #E6592E;
+}
+.copyright{
+	font-size: 16px;
+	font-family: 'Homenaje', sans-serif;
+	text-align: center;
+	margin-top: 40px;	
+  
